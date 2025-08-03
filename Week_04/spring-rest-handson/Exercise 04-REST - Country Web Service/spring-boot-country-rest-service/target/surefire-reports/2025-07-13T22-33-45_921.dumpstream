@@ -1,0 +1,5 @@
+# Created at 2025-07-13T22:33:46.393
+Boot Manifest-JAR contains absolute paths in classpath 'D:\week 004\Week_04\spring-rest-handson\Exercise 04-REST - Country Web Service\spring-boot-country-rest-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
